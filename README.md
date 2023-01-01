@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafatosta" alt="rafatosta" /></a> </p>
 
-- 🎓 Engenheiro da Computação - UEFS 
+- 🎓 Engenheiro de Computação - UEFS 
 - 👨‍💻 Mestre em Computação Aplicada 
 - ⌨️ Docente - Univerdade Estadual de Feira de Santana (UEFS) 
 - 🖥️ Tutor - SENAC 
