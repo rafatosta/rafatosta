@@ -7,7 +7,6 @@
 - 🎓 Engenheiro de Computação - UEFS 
 - 👨‍💻 Mestre em Computação Aplicada 
 - ⌨️ Docente - Univerdade Estadual de Feira de Santana (UEFS) 
-- 🖥️ Tutor - SENAC 
 
 <!--
 **rafatosta/rafatosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
