@@ -1,23 +1,35 @@
-<h1 align="center">Hi, I'm Rafael Tosta</h1>
+<h1 align="left">Hi, I'm Rafael Tosta</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rafatosta&label=Profile%20views&color=0e75b6&style=flat" alt="rafatosta" /> </p>
+## Formação Acadêmica
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafatosta" alt="rafatosta" /></a> </p>
+- **Engenharia de Computação** - Universidade Estadual de Feira de Santana (UEFS)
+- **Mestrado em Computação Aplicada** - Universidade Estadual de Feira de Santana (UEFS)
 
-- 🎓 Engenheiro de Computação - UEFS 
-- 👨‍💻 Mestre em Computação Aplicada - UEFS
+## Experiência Profissional
 
-<!--
-**rafatosta/rafatosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Professor de Ensino Básico, Técnico e Tecnológico (CMEBTT)** - Instituto Federal da Bahia (IFBA)
 
-Here are some ideas to get you started:
+## Projetos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [ZapZap - WhatsApp Desktop for Linux](https://rtosta.com/zapzap-web/) 
+
+<p align="left"><a href="https://flatstat.mijorus.it/app/com.rtosta.zapzap"  align="center"><img width="150" src="https://img.shields.io/endpoint?url=https://flathub-stats-backend.vercel.app/badges/com.rtosta.zapzap/shields.io.json"></a></p>
+
+**ZapZap** aims to bring the WhatsApp experience on Linux closer to that of a native application. Since Meta does not provide a public API for third-party applications, ZapZap is developed as a [Progressive Web Application](https://en.wikipedia.org/wiki/Progressive_web_app). This application includes features such as adaptive light and dark mode, fullscreen mode, personalized window decoration, shortcuts for main options, adaptive Systray icon, background process, drag and drop support, spellchecker, and customizable Systray icons.
+
+For more information and to download, visit the [Flathub page](https://flathub.org/apps/com.rtosta.zapzap).
+
+
+## Conquistas no GitHub
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rafatosta)
+
+## Contato
+
+Você pode entrar em contato comigo através dos seguintes canais:
+
+- **Email:** rafa.ecomp@gmail.com
+- **Site:** [rtosta.com](https://rtosta.com)
+- **GitHub:** [rafatosta](https://github.com/rafatosta)
+
+Fique à vontade para explorar meus repositórios e contribuições para projetos de código aberto!
