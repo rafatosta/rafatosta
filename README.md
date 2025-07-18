@@ -11,7 +11,7 @@
 
 ## Projetos Destacados
 
-### [ZapZap - WhatsApp Desktop for Linux](https://rtosta.com/zapzap-web/) 
+### [ZapZap - WhatsApp Desktop for Linux](https://rtosta.com/zapzap/) 
 
 <p align="left"><a href="https://flatstat.mijorus.it/app/com.rtosta.zapzap"  align="center"><img width="150" src="https://img.shields.io/endpoint?url=https://flathub-stats-backend.vercel.app/badges/com.rtosta.zapzap/shields.io.json"></a></p>
 
